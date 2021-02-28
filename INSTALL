@@ -1,0 +1,9 @@
+Building Apoelcoin
+
+See doc/readme-qt.rst for instructions on building Apoelcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Apoelcoin.
+
+See doc/build-*.txt for instructions on building apoelcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Apoelcoin.
